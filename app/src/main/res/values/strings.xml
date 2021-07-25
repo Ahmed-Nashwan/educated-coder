@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Educated programmer</string>
+
+
+    <string name="arabic_course_btn">Arabic course</string>
+    <string name="english_course_btn">English course</string>
+    <string name="premium_course_btn">Premium course</string>
+
+    <string name="btn_next">Next</string>
+    <string name="tv_next">This application provides a simple overview of the most popular programming
+        languages ​​and also provides references for the best courses with Arabic and English content
+        and also the best paid courses on the Udemy platform</string>
+
+
+    <string name="btn_finish">Finish</string>
+
+    <string name="tv_finish">The aim of this application is to provide beginners in the
+        field of programming with general knowledge about the most famous programming languages
+        ​in order to become an educated programmer
+</string>
+
+
+    <string name="tv_all">All</string>
+    <string name="tv_best_field">Best fields</string>
+    <string name="tv_top5">Other languages</string>
+    <string name="tv_mobile">Mobile</string>
+    <string name="tv_web">Web</string>
+
+</resources>

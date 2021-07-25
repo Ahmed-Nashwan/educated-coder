@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621354494987",
+    "firebase_url": "https://programming-5da1b.firebaseio.com",
+    "project_id": "programming-5da1b",
+    "storage_bucket": "programming-5da1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621354494987:android:7a7b610aca5dc6cf662b0e",
+        "android_client_info": {
+          "package_name": "ahmed.ucas.edu.programmingway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621354494987-d2ltfl44h0h512f86p1baqf59lnlbidt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKKobFwIzJmvKZxezTNIWP3HXddhmp4A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621354494987-d2ltfl44h0h512f86p1baqf59lnlbidt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
